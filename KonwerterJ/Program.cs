@@ -10,6 +10,7 @@ namespace KonwerterJ
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("XD");
         }
     }
 }
