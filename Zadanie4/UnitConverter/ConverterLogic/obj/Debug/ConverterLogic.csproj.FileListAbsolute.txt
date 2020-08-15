@@ -1,0 +1,12 @@
+C:\Users\silve\Desktop\JIPP2020\Zadanie2\UnitConverter\ConverterLogic\bin\Debug\ConverterLogic.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie2\UnitConverter\ConverterLogic\bin\Debug\ConverterLogic.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie2\UnitConverter\ConverterLogic\obj\Debug\ConverterLogic.csprojAssemblyReference.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie2\UnitConverter\ConverterLogic\obj\Debug\ConverterLogic.csproj.CoreCompileInputs.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie2\UnitConverter\ConverterLogic\obj\Debug\ConverterLogic.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie2\UnitConverter\ConverterLogic\obj\Debug\ConverterLogic.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie4\UnitConverter\ConverterLogic\bin\Debug\ConverterLogic.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie4\UnitConverter\ConverterLogic\bin\Debug\ConverterLogic.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie4\UnitConverter\ConverterLogic\obj\Debug\ConverterLogic.csprojAssemblyReference.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie4\UnitConverter\ConverterLogic\obj\Debug\ConverterLogic.csproj.CoreCompileInputs.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie4\UnitConverter\ConverterLogic\obj\Debug\ConverterLogic.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie4\UnitConverter\ConverterLogic\obj\Debug\ConverterLogic.pdb

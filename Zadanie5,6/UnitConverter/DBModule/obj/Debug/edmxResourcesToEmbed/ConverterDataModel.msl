@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ConverterDataModelStoreContainer" CdmEntityContainer="ConverterDataEntities">
+    <EntitySetMapping Name="Converter_Saves">
+      <EntityTypeMapping TypeName="ConverterDataModel.Converter_Saves">
+        <MappingFragment StoreEntitySet="Converter_Saves">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Converter" ColumnName="Converter" />
+          <ScalarProperty Name="UnitFrom" ColumnName="UnitFrom" />
+          <ScalarProperty Name="UnitTo" ColumnName="UnitTo" />
+          <ScalarProperty Name="ValueToConvert" ColumnName="ValueToConvert" />
+          <ScalarProperty Name="ConvertedValue" ColumnName="ConvertedValue" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ratings">
+      <EntityTypeMapping TypeName="ConverterDataModel.Rating">
+        <MappingFragment StoreEntitySet="Ratings">
+          <ScalarProperty Name="Rating1" ColumnName="Rating" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,2 @@
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DBModule\obj\Debug\DBModule.csprojAssemblyReference.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DBModule\obj\Debug\DBModule.csproj.CoreCompileInputs.cache

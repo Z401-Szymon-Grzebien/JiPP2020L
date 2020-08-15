@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="BackgroundLight">#efefef</Color>
+    <SolidColorBrush x:Key="BackgroundLightBrush" Color="{StaticResource BackgroundLight}" />
+
+    <Color x:Key="BackgroundVeryLight">#fafafa</Color>
+    <SolidColorBrush x:Key="BackgroundVeryLightBrush" Color="{StaticResource BackgroundVeryLight}" />
+
+    <Color x:Key="ForegroundMain">#686868</Color>
+    <SolidColorBrush x:Key="ForegroundMainBrush" Color="{StaticResource ForegroundMain}" />
+
+    <Color x:Key="ForegroundVeryDark">#000000</Color>
+    <SolidColorBrush x:Key="ForegroundVeryDarkBrush" Color="{StaticResource ForegroundVeryDark}" />
+
+    <Color x:Key="ForegroundDark">#2e2e2e</Color>
+    <SolidColorBrush x:Key="ForegroundDarkBrush" Color="{StaticResource ForegroundDark}" />
+
+    <Color x:Key="ForegroundLight">#ffffff</Color>
+    <SolidColorBrush x:Key="ForegroundLightBrush" Color="{StaticResource ForegroundLight}" />
+
+    <Color x:Key="CombineLightPurple">#c8abdb</Color>
+    <SolidColorBrush x:Key="CombineLightPurpleBrush" Color="{StaticResource CombineLightPurple}"/>
+
+    <Color x:Key="CombinePurple">#532473</Color>
+    <SolidColorBrush x:Key="CombinePurpleBrush" Color="{StaticResource CombinePurple}"/>
+
+    <Color x:Key="CombineLight">#ffffff</Color>
+    <SolidColorBrush x:Key="CombineLightBrush" Color="{StaticResource CombineLight}" />
+
+    <Color x:Key="ForegroundLightGray">#e8e8e8</Color>
+    <SolidColorBrush x:Key="ForegroundLightGrayBrush" Color="{StaticResource ForegroundLightGray}" />
+</ResourceDictionary>

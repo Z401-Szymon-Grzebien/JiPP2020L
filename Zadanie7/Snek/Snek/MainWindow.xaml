@@ -1,0 +1,39 @@
+﻿<Window x:Class="Snek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Snek"
+        xmlns:MenuControl="clr-namespace:MenuControl;assembly=MenuControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" KeyDown="gmCanvas_KeyDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="300"/>
+        </Grid.ColumnDefinitions>
+        
+        <!--Game Frame-->
+        <Canvas x:Name="gmCanvas" Grid.Column="0" Background="Black"></Canvas>
+        <TextBlock x:Name="txbScore" FontSize="15px" Text="0" Grid.Column="0" Height="25" Width="25" Margin="15" HorizontalAlignment="Right" VerticalAlignment="Top" Foreground="AliceBlue"/>
+        <!--Side Panel-->
+        <Grid Grid.Column="1" Background="LightGray">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" 
+                       FontFamily="ComicSans" 
+                       FontWeight="Bold" 
+                       FontStretch="SemiCondensed" 
+                       FontSize="30px" 
+                       Foreground="Green" 
+                       HorizontalAlignment="Center" 
+                       Margin="20 30" 
+                       Text="Snek Game"/>
+            <MenuControl:Menu x:Name="menuControl" Grid.Row="1"/>
+        </Grid>
+        
+    </Grid>
+</Window>

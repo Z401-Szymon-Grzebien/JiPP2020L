@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ConverterDataModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Converter_Saves">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Converter" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UnitFrom" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UnitTo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ValueToConvert" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ConvertedValue" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DateTime" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="ConverterDataEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Converter_Saves" EntityType="Self.Converter_Saves" />
+    <EntitySet Name="Ratings" EntityType="ConverterDataModel.Rating" />
+  </EntityContainer>
+  <EntityType Name="Rating">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Rating1" Type="Int32" />
+  </EntityType>
+</Schema>

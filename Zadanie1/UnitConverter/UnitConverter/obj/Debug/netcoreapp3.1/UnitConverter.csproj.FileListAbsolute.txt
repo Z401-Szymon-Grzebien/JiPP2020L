@@ -1,0 +1,26 @@
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.exe
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.deps.json
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.runtimeconfig.json
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.runtimeconfig.dev.json
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.csprojAssemblyReference.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.AssemblyInfo.cs
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie 1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.genruntimeconfig.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.exe
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.deps.json
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.runtimeconfig.json
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.runtimeconfig.dev.json
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.csprojAssemblyReference.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.AssemblyInfo.cs
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie1\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.genruntimeconfig.cache

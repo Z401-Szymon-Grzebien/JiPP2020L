@@ -1,0 +1,11 @@
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\bin\Debug\DataBaseM.dll.config
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\bin\Debug\DataBaseM.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\bin\Debug\DataBaseM.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\bin\Debug\EntityFramework.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\bin\Debug\EntityFramework.xml
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\obj\Debug\DataBaseM.csproj.CoreCompileInputs.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\obj\Debug\DataBaseM.csproj.CopyComplete
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\obj\Debug\DataBaseM.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\DataBaseM\obj\Debug\DataBaseM.pdb

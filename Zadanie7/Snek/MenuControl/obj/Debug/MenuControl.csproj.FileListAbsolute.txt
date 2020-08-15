@@ -1,0 +1,13 @@
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl.csprojAssemblyReference.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl_MarkupCompile.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\bin\Debug\MenuControl.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\bin\Debug\MenuControl.pdb
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\Menu.g.cs
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl_MarkupCompile.lref
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\Menu.baml
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl.g.resources
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl.Properties.Resources.resources
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl.csproj.GenerateResource.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl.csproj.CoreCompileInputs.cache
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl.dll
+C:\Users\silve\Desktop\JIPP2020\Zadanie7\Snek\MenuControl\obj\Debug\MenuControl.pdb
